@@ -1,6 +1,6 @@
 # Simple-Android-App
 
-Simple Android App UI: Hello World!
+Simple Android App UI: Hello World
 
 #keystore
 
